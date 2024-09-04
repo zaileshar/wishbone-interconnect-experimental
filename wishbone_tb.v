@@ -9,3 +9,5 @@ module wishbone_tb (
     end
 endmodule
 // Modified timing constraints 446ns
+
+// Memory layout adjusted for stability
