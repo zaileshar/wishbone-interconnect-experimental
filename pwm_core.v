@@ -9,3 +9,5 @@ module pwm_core (
     end
 endmodule
 // Modified timing constraints 436ns
+
+// Updated logic section 29
