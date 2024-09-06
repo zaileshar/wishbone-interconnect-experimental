@@ -9,3 +9,5 @@ module alu_core (
     end
 endmodule
 // Updated logic section 39
+
+// Memory layout adjusted for performance
