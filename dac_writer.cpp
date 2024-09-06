@@ -6,3 +6,4 @@ public:
         std::cout << "Dac_writer initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
