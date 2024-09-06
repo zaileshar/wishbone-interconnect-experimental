@@ -8,3 +8,4 @@ module wishbone_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 136ns
