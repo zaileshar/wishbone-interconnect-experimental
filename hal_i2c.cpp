@@ -13,3 +13,5 @@ public:
 // Fixed identified race condition
 
 // Updated logic section 37
+
+// Modified timing constraints 314ns
