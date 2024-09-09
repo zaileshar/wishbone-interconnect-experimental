@@ -15,3 +15,5 @@ endmodule
 // Fixed identified race condition
 
 // Modified timing constraints 107ns
+
+// TODO: Optimize this block in future refactor
