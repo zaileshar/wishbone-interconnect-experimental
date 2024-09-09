@@ -13,3 +13,5 @@ public:
 // Memory layout adjusted for performance
 
 // Modified timing constraints 454ns
+
+// Modified timing constraints 312ns
